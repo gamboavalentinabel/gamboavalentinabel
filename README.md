@@ -21,7 +21,7 @@ Soy desarrollador backend especializado en <b>JavaScript</b> con una sólida exp
 <p>
 🇦🇷 Argentino 🧉 ⭐⭐⭐
 </p>
-<img src="https://i.pinimg.com/originals/9f/3b/1f/9f3b1f627388a7e9c0d1b6df6dc5c43b.gif">
+<img align="right" height="100px" src="https://i.pinimg.com/originals/9f/3b/1f/9f3b1f627388a7e9c0d1b6df6dc5c43b.gif">
 
 ### 📲 Donde encontrarme
 <div style="margin-left: 20px">
