@@ -4,7 +4,7 @@
 
 <p>
 <a href="https://www.github.com/gamboavalentin" target="_blank" rel="noreferrer">
-<img style="border-radius: 3px;" height="28px" src="https://img.shields.io/github/followers/gamboavalentin?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<img height="28px" src="https://img.shields.io/github/followers/gamboavalentin?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <a href="https://www.github.com/gamboavalentin">
   <img height="28px" src="https://komarev.com/ghpvc/?username=gamboavalentin">
 </a>
