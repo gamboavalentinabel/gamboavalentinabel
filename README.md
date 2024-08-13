@@ -12,7 +12,7 @@
                   
 
 ## 🧉 Sobre mi
-<img align="right" width="100px" src="https://i.pinimg.com/originals/9f/3b/1f/9f3b1f627388a7e9c0d1b6df6dc5c43b.gif">
+<img align="right" width="200px" src="https://i.pinimg.com/originals/9f/3b/1f/9f3b1f627388a7e9c0d1b6df6dc5c43b.gif">
 <div align="left">
   <p>
     Soy desarrollador backend especializado en <b>JavaScript</b> con una sólida experiencia en desarrollo de aplicaciones web fullstack.
