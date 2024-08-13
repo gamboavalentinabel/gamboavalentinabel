@@ -12,12 +12,16 @@
                   
 
 ## 🧉 Sobre mi
-<p style="margin-left: 20px">
+<p>
 Soy desarrollador backend especializado en <b>JavaScript</b> con una sólida experiencia en desarrollo de aplicaciones web fullstack.
 </p>
-<p style="margin-left: 20px">
-🎓 Graduado de la Tecnicatura Universitaria en Programación de la Universidad Tecnológica Nacional - Facultad Regional Tierra del Fuego, Argentina.
+<p>
+🎓 Graduado de la <b>Tecnicatura Universitaria en Programación</b> de la Universidad Tecnológica Nacional - Facultad Regional Tierra del Fuego, Argentina.
 </p>
+<p>
+🇦🇷 Argentino 🧉 ⭐⭐⭐
+</p>
+<img src="https://i.pinimg.com/originals/9f/3b/1f/9f3b1f627388a7e9c0d1b6df6dc5c43b.gif">
 
 ### 📲 Donde encontrarme
 <div style="margin-left: 20px">
