@@ -17,4 +17,5 @@ Graduado de la Tecnicatura Universitaria en Programación de la Universidad Tecn
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gamboavalentin&hide_progress=true)
-                    
+
+![](https://komarev.com/ghpvc/?username=gamboavalentin)
