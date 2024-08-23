@@ -26,7 +26,7 @@
 </div>
 
 ## 📲 Donde encontrarme
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentin-abel-gamboa-0106a4262/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gamboavalentinabel)
 
 ## 👨‍💻 Skills
 <p align="left">
