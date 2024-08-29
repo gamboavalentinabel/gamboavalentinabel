@@ -3,10 +3,10 @@
 </div>
 
 <p>
-<a href="https://www.github.com/gamboavalentin" target="_blank" rel="noreferrer">
-<img height="28px" src="https://img.shields.io/github/followers/gamboavalentin?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<a href="https://www.github.com/gamboavalentin">
-  <img height="28px" src="https://komarev.com/ghpvc/?username=gamboavalentin">
+<a href="https://www.github.com/gamboavalentinabel" target="_blank" rel="noreferrer">
+<img height="28px" src="https://img.shields.io/github/followers/gamboavalentinabel?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/gamboavalentinabel">
+  <img height="28px" src="https://komarev.com/ghpvc/?username=gamboavalentinabel">
 </a>
 </p>
                   
@@ -36,6 +36,6 @@
 <div align="center">
 
 
-<a href="https://github.com/gamboavalentin"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamboavalentin&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/gamboavalentinabel"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamboavalentinabel&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 </div>
